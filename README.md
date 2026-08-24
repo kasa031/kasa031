@@ -133,16 +133,17 @@ Experimental branch of a civic voting app for testing new features and mobile UX
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasa031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071952&title_color=00B7CD&text_color=FFF1D1&icon_color=FF9100" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasa031&theme=tokyonight&hide_border=true&background=071952&ring=00B7CD&fire=FF9100&currStreakLabel=FFF1D1&sideLabels=FFF1D1&dates=FFF1D1" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kasa031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071952&title_color=00B7CD&text_color=FFF1D1&icon_color=FF9100" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=kasa031&theme=tokyonight&hide_border=true&background=071952&ring=00B7CD&fire=FF9100&currStreakLabel=FFF1D1&sideLabels=FFF1D1&dates=FFF1D1" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasa031&layout=compact&theme=tokyonight&hide_border=true&bg_color=071952&title_color=00B7CD&text_color=FFF1D1" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kasa031&layout=compact&theme=tokyonight&hide_border=true&bg_color=071952&title_color=00B7CD&text_color=FFF1D1" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kasa031&theme=dracula&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasa031&theme=tokyonight" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kasa031&theme=tokyonight" alt="Repos per language" />
 </p>
 
 ---
