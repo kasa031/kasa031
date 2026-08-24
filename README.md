@@ -123,10 +123,9 @@ Experimental branch of a civic voting app for testing new features and mobile UX
   <a href="https://kasa031.github.io/msc_cyber-syllabus/">
     <img src="https://img.shields.io/badge/Portfolio-Study_App-00B7CD?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn URL below when ready -->
-  <!-- <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/karina-s%C3%A6tersdal-nilssen-59138b8b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
+  </a>
 </p>
 
 ---
